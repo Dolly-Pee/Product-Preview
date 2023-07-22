@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://dolly-pee.github.io/Product-Preview/)
+- Live Site URL:(https://dolly-pee.github.io/Product-Preview/)
 
 ## My process
 
@@ -67,6 +67,6 @@ javaScript and Animation with css
 
 ## Author
 
-- Website - [Dolly Pee](https://www.your-site.com)
+- Website - (https://dolly-pee.github.io/Product-Preview/)
 - Frontend Mentor - [@Dolly-Pee](https://www.frontendmentor.io/profile/Dolly-Pee)
 - Twitter - [@precimyte](https://twitter.com/Precimyte)
